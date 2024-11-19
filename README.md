@@ -1,9 +1,10 @@
 # I2_CODTECH_TASK1
-Name: ERUGU USHASWINI
-ID: CT6WDS2157
-Domain: Python Programming
-Duration: October to November 2024
-Mentor: Neela Santhosh Kumar
+
+- Name: ERUGU USHASWINI
+- ID: CT6WDS2157
+- Domain: Python Programming
+- Duration: October to November 2024
+- Mentor: Neela Santhosh Kumar
 
 **Overview of the Project**
 
